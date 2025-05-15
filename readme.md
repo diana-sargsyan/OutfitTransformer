@@ -8,7 +8,7 @@ This repository provides the implementation of **Outfit Transformer**, a model d
 
 > Rohan Sarkar et al. [Outfit Transformer: Outfit Representations for Fashion Recommendation](https://arxiv.org/abs/2204.04812). CVPR 2023.
 
-
+Checkpoints: https://drive.google.com/drive/folders/18H8l90C0_vSqcdXn4S2rK_MHK4N2DECn?usp=drive_link
 ## 🛠️ Installation
 
 ```bash
